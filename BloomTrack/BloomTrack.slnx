@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BloomTrack.Tests/Tests.csproj" Id="c38cc68e-a0b8-471a-98d1-1e02ff09a626" />
+  <Project Path="BloomTrack/BloomTrack.csproj" />
+</Solution>
